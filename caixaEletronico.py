@@ -27,7 +27,7 @@ def main():
         print("\n1 - Consultar Saldo")
         print("2 - Sacar Dinheiro")
         print("3 - Depositar Dinheiro")
-        print("0 - Sair")
+        print("0 - Quero sair")
 
         escolha = input("Escolha uma opção: ")
 
